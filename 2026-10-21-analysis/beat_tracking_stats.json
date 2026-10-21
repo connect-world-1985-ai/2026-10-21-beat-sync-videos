@@ -1,0 +1,42 @@
+{
+ "v1_crusade": {
+  "tempo_bpm": 89.1,
+  "beats": 293,
+  "median_beat_to_onset_ms": 23.2,
+  "pct_beats_within_50ms_of_onset": 75.8,
+  "ibi_std_ms": 15.4,
+  "longest_gap_without_beats_s": 0.72
+ },
+ "v2_polka": {
+  "tempo_bpm": 143.6,
+  "beats": 358,
+  "median_beat_to_onset_ms": 0.0,
+  "pct_beats_within_50ms_of_onset": 92.2,
+  "ibi_std_ms": 13.2,
+  "longest_gap_without_beats_s": 0.49
+ },
+ "v3_monkeys_loop": {
+  "tempo_bpm": 143.6,
+  "beats": 398,
+  "median_beat_to_onset_ms": 0.0,
+  "pct_beats_within_50ms_of_onset": 98.2,
+  "ibi_std_ms": 13.7,
+  "longest_gap_without_beats_s": 0.51
+ },
+ "impact_lento": {
+  "tempo_bpm": 123.0,
+  "beats": 350,
+  "median_beat_to_onset_ms": 23.2,
+  "pct_beats_within_50ms_of_onset": 76.6,
+  "ibi_std_ms": 19.9,
+  "longest_gap_without_beats_s": 0.53
+ },
+ "living_voyage": {
+  "tempo_bpm": 123.0,
+  "beats": 391,
+  "median_beat_to_onset_ms": 0.0,
+  "pct_beats_within_50ms_of_onset": 91.6,
+  "ibi_std_ms": 9.8,
+  "longest_gap_without_beats_s": 0.51
+ }
+}

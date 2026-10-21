@@ -1,0 +1,5 @@
+.venv/
+2026-10-21-build/
+__pycache__/
+*.parts/
+*.pyc

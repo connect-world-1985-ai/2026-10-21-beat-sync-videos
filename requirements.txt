@@ -1,0 +1,8 @@
+librosa==1.0.0
+numpy==2.5.4
+pillow==13.0.0
+matplotlib==3.11.2
+soundfile==0.14.0
+scipy==1.18.1
+numba==0.68.0
+# system: ffmpeg/ffprobe 7.x, fonts-noto-cjk (Noto Sans/Serif CJK), Google Fonts Cinzel, Fredoka, DejaVu Sans Mono

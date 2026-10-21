@@ -1,0 +1,482 @@
+{
+ "summary": {
+  "video": "2026-10-21-v1-light-of-humanity/2026-10-21-v1-light-of-humanity.mp4",
+  "size_MB": 46.0,
+  "duration_s": 198.73,
+  "streams": [
+   {
+    "codec_name": "h264",
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "30/1"
+   },
+   {
+    "codec_name": "aac",
+    "width": null,
+    "height": null,
+    "r_frame_rate": "0/0"
+   }
+  ],
+  "scheduled_changes": 45,
+  "checked": 45,
+  "visual_change_onset_within_1_frame": 1.0,
+  "onset_offset_frames_histogram": {
+   "0": 45
+  },
+  "peak_offset_frames_histogram": {
+   "0": 45
+  }
+ },
+ "changes": [
+  {
+   "t": 6.734,
+   "frame": 202,
+   "diff_at": 35.33,
+   "baseline": 0.25,
+   "peak_frame": 202,
+   "peak_offset": 0,
+   "onset_frame": 202,
+   "offset_frames": 0
+  },
+  {
+   "t": 12.074,
+   "frame": 362,
+   "diff_at": 37.2,
+   "baseline": 0.32,
+   "peak_frame": 362,
+   "peak_offset": 0,
+   "onset_frame": 362,
+   "offset_frames": 0
+  },
+  {
+   "t": 17.392,
+   "frame": 522,
+   "diff_at": 41.33,
+   "baseline": 0.24,
+   "peak_frame": 522,
+   "peak_offset": 0,
+   "onset_frame": 522,
+   "offset_frames": 0
+  },
+  {
+   "t": 22.732,
+   "frame": 682,
+   "diff_at": 39.74,
+   "baseline": 0.26,
+   "peak_frame": 682,
+   "peak_offset": 0,
+   "onset_frame": 682,
+   "offset_frames": 0
+  },
+  {
+   "t": 28.073,
+   "frame": 842,
+   "diff_at": 34.56,
+   "baseline": 0.24,
+   "peak_frame": 842,
+   "peak_offset": 0,
+   "onset_frame": 842,
+   "offset_frames": 0
+  },
+  {
+   "t": 33.39,
+   "frame": 1002,
+   "diff_at": 42.62,
+   "baseline": 0.37,
+   "peak_frame": 1002,
+   "peak_offset": 0,
+   "onset_frame": 1002,
+   "offset_frames": 0
+  },
+  {
+   "t": 38.731,
+   "frame": 1162,
+   "diff_at": 39.5,
+   "baseline": 0.22,
+   "peak_frame": 1162,
+   "peak_offset": 0,
+   "onset_frame": 1162,
+   "offset_frames": 0
+  },
+  {
+   "t": 44.072,
+   "frame": 1322,
+   "diff_at": 33.83,
+   "baseline": 0.27,
+   "peak_frame": 1322,
+   "peak_offset": 0,
+   "onset_frame": 1322,
+   "offset_frames": 0
+  },
+  {
+   "t": 52.059,
+   "frame": 1562,
+   "diff_at": 34.35,
+   "baseline": 0.33,
+   "peak_frame": 1562,
+   "peak_offset": 0,
+   "onset_frame": 1562,
+   "offset_frames": 0
+  },
+  {
+   "t": 57.4,
+   "frame": 1722,
+   "diff_at": 34.52,
+   "baseline": 0.38,
+   "peak_frame": 1722,
+   "peak_offset": 0,
+   "onset_frame": 1722,
+   "offset_frames": 0
+  },
+  {
+   "t": 62.74,
+   "frame": 1882,
+   "diff_at": 34.0,
+   "baseline": 0.22,
+   "peak_frame": 1882,
+   "peak_offset": 0,
+   "onset_frame": 1882,
+   "offset_frames": 0
+  },
+  {
+   "t": 68.058,
+   "frame": 2042,
+   "diff_at": 30.88,
+   "baseline": 0.26,
+   "peak_frame": 2042,
+   "peak_offset": 0,
+   "onset_frame": 2042,
+   "offset_frames": 0
+  },
+  {
+   "t": 73.398,
+   "frame": 2202,
+   "diff_at": 30.17,
+   "baseline": 0.33,
+   "peak_frame": 2202,
+   "peak_offset": 0,
+   "onset_frame": 2202,
+   "offset_frames": 0
+  },
+  {
+   "t": 78.716,
+   "frame": 2361,
+   "diff_at": 29.14,
+   "baseline": 0.2,
+   "peak_frame": 2361,
+   "peak_offset": 0,
+   "onset_frame": 2361,
+   "offset_frames": 0
+  },
+  {
+   "t": 84.056,
+   "frame": 2522,
+   "diff_at": 29.1,
+   "baseline": 0.29,
+   "peak_frame": 2522,
+   "peak_offset": 0,
+   "onset_frame": 2522,
+   "offset_frames": 0
+  },
+  {
+   "t": 89.35,
+   "frame": 2681,
+   "diff_at": 28.9,
+   "baseline": 0.26,
+   "peak_frame": 2681,
+   "peak_offset": 0,
+   "onset_frame": 2681,
+   "offset_frames": 0
+  },
+  {
+   "t": 97.408,
+   "frame": 2922,
+   "diff_at": 74.09,
+   "baseline": 0.31,
+   "peak_frame": 2922,
+   "peak_offset": 0,
+   "onset_frame": 2922,
+   "offset_frames": 0
+  },
+  {
+   "t": 100.078,
+   "frame": 3002,
+   "diff_at": 76.68,
+   "baseline": 0.25,
+   "peak_frame": 3002,
+   "peak_offset": 0,
+   "onset_frame": 3002,
+   "offset_frames": 0
+  },
+  {
+   "t": 102.725,
+   "frame": 3082,
+   "diff_at": 76.27,
+   "baseline": 0.44,
+   "peak_frame": 3082,
+   "peak_offset": 0,
+   "onset_frame": 3082,
+   "offset_frames": 0
+  },
+  {
+   "t": 105.395,
+   "frame": 3162,
+   "diff_at": 73.44,
+   "baseline": 0.31,
+   "peak_frame": 3162,
+   "peak_offset": 0,
+   "onset_frame": 3162,
+   "offset_frames": 0
+  },
+  {
+   "t": 108.066,
+   "frame": 3242,
+   "diff_at": 77.33,
+   "baseline": 0.41,
+   "peak_frame": 3242,
+   "peak_offset": 0,
+   "onset_frame": 3242,
+   "offset_frames": 0
+  },
+  {
+   "t": 110.736,
+   "frame": 3322,
+   "diff_at": 72.38,
+   "baseline": 0.61,
+   "peak_frame": 3322,
+   "peak_offset": 0,
+   "onset_frame": 3322,
+   "offset_frames": 0
+  },
+  {
+   "t": 113.406,
+   "frame": 3402,
+   "diff_at": 76.25,
+   "baseline": 0.43,
+   "peak_frame": 3402,
+   "peak_offset": 0,
+   "onset_frame": 3402,
+   "offset_frames": 0
+  },
+  {
+   "t": 116.077,
+   "frame": 3482,
+   "diff_at": 81.56,
+   "baseline": 0.47,
+   "peak_frame": 3482,
+   "peak_offset": 0,
+   "onset_frame": 3482,
+   "offset_frames": 0
+  },
+  {
+   "t": 118.747,
+   "frame": 3562,
+   "diff_at": 78.97,
+   "baseline": 0.62,
+   "peak_frame": 3562,
+   "peak_offset": 0,
+   "onset_frame": 3562,
+   "offset_frames": 0
+  },
+  {
+   "t": 121.417,
+   "frame": 3643,
+   "diff_at": 72.36,
+   "baseline": 0.74,
+   "peak_frame": 3643,
+   "peak_offset": 0,
+   "onset_frame": 3643,
+   "offset_frames": 0
+  },
+  {
+   "t": 124.087,
+   "frame": 3723,
+   "diff_at": 69.84,
+   "baseline": 0.41,
+   "peak_frame": 3723,
+   "peak_offset": 0,
+   "onset_frame": 3723,
+   "offset_frames": 0
+  },
+  {
+   "t": 126.734,
+   "frame": 3802,
+   "diff_at": 71.18,
+   "baseline": 0.35,
+   "peak_frame": 3802,
+   "peak_offset": 0,
+   "onset_frame": 3802,
+   "offset_frames": 0
+  },
+  {
+   "t": 129.405,
+   "frame": 3882,
+   "diff_at": 72.21,
+   "baseline": 0.37,
+   "peak_frame": 3882,
+   "peak_offset": 0,
+   "onset_frame": 3882,
+   "offset_frames": 0
+  },
+  {
+   "t": 132.075,
+   "frame": 3962,
+   "diff_at": 67.73,
+   "baseline": 0.26,
+   "peak_frame": 3962,
+   "peak_offset": 0,
+   "onset_frame": 3962,
+   "offset_frames": 0
+  },
+  {
+   "t": 134.745,
+   "frame": 4042,
+   "diff_at": 64.56,
+   "baseline": 0.59,
+   "peak_frame": 4042,
+   "peak_offset": 0,
+   "onset_frame": 4042,
+   "offset_frames": 0
+  },
+  {
+   "t": 137.416,
+   "frame": 4122,
+   "diff_at": 60.29,
+   "baseline": 0.38,
+   "peak_frame": 4122,
+   "peak_offset": 0,
+   "onset_frame": 4122,
+   "offset_frames": 0
+  },
+  {
+   "t": 140.063,
+   "frame": 4202,
+   "diff_at": 61.96,
+   "baseline": 0.46,
+   "peak_frame": 4202,
+   "peak_offset": 0,
+   "onset_frame": 4202,
+   "offset_frames": 0
+  },
+  {
+   "t": 142.733,
+   "frame": 4282,
+   "diff_at": 67.91,
+   "baseline": 0.75,
+   "peak_frame": 4282,
+   "peak_offset": 0,
+   "onset_frame": 4282,
+   "offset_frames": 0
+  },
+  {
+   "t": 145.403,
+   "frame": 4362,
+   "diff_at": 72.02,
+   "baseline": 0.59,
+   "peak_frame": 4362,
+   "peak_offset": 0,
+   "onset_frame": 4362,
+   "offset_frames": 0
+  },
+  {
+   "t": 148.074,
+   "frame": 4442,
+   "diff_at": 69.23,
+   "baseline": 0.24,
+   "peak_frame": 4442,
+   "peak_offset": 0,
+   "onset_frame": 4442,
+   "offset_frames": 0
+  },
+  {
+   "t": 150.744,
+   "frame": 4522,
+   "diff_at": 68.02,
+   "baseline": 0.31,
+   "peak_frame": 4522,
+   "peak_offset": 0,
+   "onset_frame": 4522,
+   "offset_frames": 0
+  },
+  {
+   "t": 153.414,
+   "frame": 4602,
+   "diff_at": 66.73,
+   "baseline": 0.44,
+   "peak_frame": 4602,
+   "peak_offset": 0,
+   "onset_frame": 4602,
+   "offset_frames": 0
+  },
+  {
+   "t": 156.084,
+   "frame": 4683,
+   "diff_at": 66.72,
+   "baseline": 0.44,
+   "peak_frame": 4683,
+   "peak_offset": 0,
+   "onset_frame": 4683,
+   "offset_frames": 0
+  },
+  {
+   "t": 158.732,
+   "frame": 4762,
+   "diff_at": 70.44,
+   "baseline": 0.37,
+   "peak_frame": 4762,
+   "peak_offset": 0,
+   "onset_frame": 4762,
+   "offset_frames": 0
+  },
+  {
+   "t": 161.402,
+   "frame": 4842,
+   "diff_at": 73.7,
+   "baseline": 0.43,
+   "peak_frame": 4842,
+   "peak_offset": 0,
+   "onset_frame": 4842,
+   "offset_frames": 0
+  },
+  {
+   "t": 164.072,
+   "frame": 4922,
+   "diff_at": 29.73,
+   "baseline": 0.45,
+   "peak_frame": 4922,
+   "peak_offset": 0,
+   "onset_frame": 4922,
+   "offset_frames": 0
+  },
+  {
+   "t": 169.39,
+   "frame": 5082,
+   "diff_at": 24.75,
+   "baseline": 0.59,
+   "peak_frame": 5082,
+   "peak_offset": 0,
+   "onset_frame": 5082,
+   "offset_frames": 0
+  },
+  {
+   "t": 177.4,
+   "frame": 5322,
+   "diff_at": 29.05,
+   "baseline": 0.19,
+   "peak_frame": 5322,
+   "peak_offset": 0,
+   "onset_frame": 5322,
+   "offset_frames": 0
+  },
+  {
+   "t": 185.411,
+   "frame": 5562,
+   "diff_at": 24.08,
+   "baseline": 0.43,
+   "peak_frame": 5562,
+   "peak_offset": 0,
+   "onset_frame": 5562,
+   "offset_frames": 0
+  }
+ ]
+}
